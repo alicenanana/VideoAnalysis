@@ -1,1 +1,2 @@
 # VideoAnalysis
+Dieses Projekt untersucht, wie visuelle und strukturelle Muster in Filmen mithilfe computergestützter Werkzeuge systematisch analysiert werden können. Es werden Methoden des maschinellen Lernens, der Computer Vision und der statistischen Modellierung angewandt, um genre-spezifische Merkmale in Action-, Drama- und Dokumentarfilmen zu identifizieren. Ziel der Studie ist es, traditionelle Filmanalysen mit digitalen Methoden aus den Digital Humanities zu verbinden.
